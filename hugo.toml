@@ -1,0 +1,15 @@
+baseURL = "https://hala28-sys.github.io/mon-portfolio/"
+locale = "fr-FR"
+title = "Hala LAHMAMSI"
+theme = "github-style"
+
+[params]
+  author = "Hala LAHMAMSI"
+  description = "Etudiante INPT - Systemes Embarques et Services Numeriques"
+  github = "hala-lahmamsi"
+  linkedin = "hala-lahmamsi-b78a782a8"
+  email = "Lahmamsihala28@gmail.com"
+  location = "Rabat, Maroc"
+  avatar = "/img/photo.jpg"
+[permalinks]
+  posts = "/posts/:slug"

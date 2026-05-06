@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>IoT on Hala LAHMAMSI</title>
+    <link>https://hala28-sys.github.io/mon-portfolio/tags/iot/</link>
+    <description>Recent content in IoT on Hala LAHMAMSI</description>
+    <generator>Hugo</generator>
+    <language>fr-FR</language>
+    <lastBuildDate>Fri, 01 May 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://hala28-sys.github.io/mon-portfolio/tags/iot/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Surveillance agricole intelligente</title>
+      <link>https://hala28-sys.github.io/mon-portfolio/posts/surveillance-agricole-intelligente/</link>
+      <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://hala28-sys.github.io/mon-portfolio/posts/surveillance-agricole-intelligente/</guid>
+      <description>&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;&#xA;&lt;p&gt;Projet de groupe en cours.&#xA;Capture de donnees, temperature, niveau eau.&#xA;Transmission vers plateforme web.&lt;/p&gt;&#xA;&lt;h2 id=&#34;technologies&#34;&gt;Technologies&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Arduino / STM32&lt;/li&gt;&#xA;&lt;li&gt;Python&lt;/li&gt;&#xA;&lt;li&gt;Capteurs IoT&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>

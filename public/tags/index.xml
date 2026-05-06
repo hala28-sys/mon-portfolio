@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Hala LAHMAMSI</title>
+    <link>https://hala28-sys.github.io/mon-portfolio/tags/</link>
+    <description>Recent content in Tags on Hala LAHMAMSI</description>
+    <generator>Hugo</generator>
+    <language>fr-FR</language>
+    <lastBuildDate>Fri, 01 May 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://hala28-sys.github.io/mon-portfolio/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Arduino</title>
+      <link>https://hala28-sys.github.io/mon-portfolio/tags/arduino/</link>
+      <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://hala28-sys.github.io/mon-portfolio/tags/arduino/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>IoT</title>
+      <link>https://hala28-sys.github.io/mon-portfolio/tags/iot/</link>
+      <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://hala28-sys.github.io/mon-portfolio/tags/iot/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Python</title>
+      <link>https://hala28-sys.github.io/mon-portfolio/tags/python/</link>
+      <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://hala28-sys.github.io/mon-portfolio/tags/python/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Electronique</title>
+      <link>https://hala28-sys.github.io/mon-portfolio/tags/electronique/</link>
+      <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://hala28-sys.github.io/mon-portfolio/tags/electronique/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>OrCAD</title>
+      <link>https://hala28-sys.github.io/mon-portfolio/tags/orcad/</link>
+      <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://hala28-sys.github.io/mon-portfolio/tags/orcad/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Proteus</title>
+      <link>https://hala28-sys.github.io/mon-portfolio/tags/proteus/</link>
+      <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://hala28-sys.github.io/mon-portfolio/tags/proteus/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

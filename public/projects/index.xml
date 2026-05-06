@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Hala LAHMAMSI</title>
+    <link>http://localhost:1314/projects/</link>
+    <description>Recent content in Projects on Hala LAHMAMSI</description>
+    <generator>Hugo</generator>
+    <language>fr-FR</language>
+    <atom:link href="http://localhost:1314/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost:1314/projects/projet1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1314/projects/projet1/</guid>
+      <description>&lt;p&gt;-&amp;ndash;&lt;/p&gt;&#xA;&lt;p&gt;title: &amp;ldquo;Mon Premier Projet Web&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;date: 2024-01-15&lt;/p&gt;&#xA;&lt;p&gt;draft: false&lt;/p&gt;&#xA;&lt;p&gt;tags: [&amp;ldquo;HTML&amp;rdquo;, &amp;ldquo;CSS&amp;rdquo;, &amp;ldquo;JavaScript&amp;rdquo;]&lt;/p&gt;&#xA;&lt;p&gt;description: &amp;ldquo;Site web réalisé dans le cadre du cours&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;-&amp;ndash;&lt;/p&gt;&#xA;&lt;p&gt;## Description&lt;/p&gt;&#xA;&lt;p&gt;Application web développée durant ma formation en informatique.&lt;/p&gt;&#xA;&lt;p&gt;## Technologies utilisées&lt;/p&gt;&#xA;&lt;p&gt;- HTML5 / CSS3&lt;/p&gt;&#xA;&lt;p&gt;- JavaScript&lt;/p&gt;&#xA;&lt;p&gt;- Git &amp;amp; GitHub&lt;/p&gt;&#xA;&lt;p&gt;## Fonctionnalités&lt;/p&gt;&#xA;&lt;p&gt;- Interface responsive&lt;/p&gt;&#xA;&lt;p&gt;- Formulaire de contact&lt;/p&gt;&#xA;&lt;p&gt;- Navigation dynamique&lt;/p&gt;&#xA;&lt;p&gt;## Lien&lt;/p&gt;&#xA;&lt;p&gt;[Voir sur GitHub](&lt;a href=&#34;https://github.com/ton-pseudo/projet1&#34;&gt;https://github.com/ton-pseudo/projet1&lt;/a&gt;)&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
