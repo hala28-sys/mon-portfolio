@@ -2,6 +2,7 @@ baseURL = "https://hala28-sys.github.io/mon-portfolio/"
 locale = "fr-FR"
 title = "Hala LAHMAMSI"
 theme = "github-style"
+publishDir = "docs"
 
 [params]
   author = "Hala LAHMAMSI"
@@ -11,5 +12,6 @@ theme = "github-style"
   email = "Lahmamsihala28@gmail.com"
   location = "Rabat, Maroc"
   avatar = "/img/photo.jpg"
+
 [permalinks]
   posts = "/posts/:slug"

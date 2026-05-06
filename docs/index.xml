@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hala LAHMAMSI</title>
+    <link>https://hala28-sys.github.io/mon-portfolio/</link>
+    <description>Recent content on Hala LAHMAMSI</description>
+    <generator>Hugo</generator>
+    <language>fr-FR</language>
+    <lastBuildDate>Fri, 01 May 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://hala28-sys.github.io/mon-portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Surveillance agricole intelligente</title>
+      <link>https://hala28-sys.github.io/mon-portfolio/posts/surveillance-agricole-intelligente/</link>
+      <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://hala28-sys.github.io/mon-portfolio/posts/surveillance-agricole-intelligente/</guid>
+      <description>&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;&#xA;&lt;p&gt;Projet de groupe en cours.&#xA;Capture de donnees, temperature, niveau eau.&#xA;Transmission vers plateforme web.&lt;/p&gt;&#xA;&lt;h2 id=&#34;technologies&#34;&gt;Technologies&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Arduino / STM32&lt;/li&gt;&#xA;&lt;li&gt;Python&lt;/li&gt;&#xA;&lt;li&gt;Capteurs IoT&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Modulation et demodulation AM</title>
+      <link>https://hala28-sys.github.io/mon-portfolio/posts/modulation-et-demodulation-am/</link>
+      <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://hala28-sys.github.io/mon-portfolio/posts/modulation-et-demodulation-am/</guid>
+      <description>&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;&#xA;&lt;p&gt;Conception et simulation circuit AM sous Proteus et OrCAD.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>readme</title>
+      <link>https://hala28-sys.github.io/mon-portfolio/readme/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://hala28-sys.github.io/mon-portfolio/readme/</guid>
+      <description>&lt;h2 id=&#34;profil&#34;&gt;Profil&lt;/h2&gt;&#xA;&lt;p&gt;Etudiante en 1ere annee a l&amp;rsquo;INPT (Systemes Embarques et Services Numeriques).&#xA;Passionnee par le hardware et le developpement logiciel.&lt;/p&gt;&#xA;&lt;h2 id=&#34;formation&#34;&gt;Formation&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;INPT - Systemes Embarques (2025-2028)&lt;/li&gt;&#xA;&lt;li&gt;CPGE TSI - Lycee Moulay Abdellah, Safi (2023-2025)&lt;/li&gt;&#xA;&lt;li&gt;Baccalaureat Technique STE (2023)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;competences&#34;&gt;Competences&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;VHDL, Embedded C, Assembleur, Java, Python&lt;/li&gt;&#xA;&lt;li&gt;Arduino, PIC, STM32, ARM&lt;/li&gt;&#xA;&lt;li&gt;FPGA&lt;/li&gt;&#xA;&lt;li&gt;UART, I2C, SPI, CAN, USB&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;langues&#34;&gt;Langues&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Arabe : maternelle&lt;/li&gt;&#xA;&lt;li&gt;Francais : avance&lt;/li&gt;&#xA;&lt;li&gt;Anglais : avance&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://hala28-sys.github.io/mon-portfolio/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://hala28-sys.github.io/mon-portfolio/about/</guid>
+      <description>&lt;p&gt;-&amp;ndash;&lt;/p&gt;&#xA;&lt;p&gt;title: &amp;ldquo;Hala LAHMAMSI&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;date: 2025-05-06&lt;/p&gt;&#xA;&lt;p&gt;-&amp;ndash;&lt;/p&gt;&#xA;&lt;p&gt;## Profil&lt;/p&gt;&#xA;&lt;p&gt;Étudiante en 1ère année à l&amp;rsquo;INPT (Systèmes Embarqués et Services Numériques). Passionnée par le hardware et le développement logiciel, je suis à la recherche d&amp;rsquo;un stage d&amp;rsquo;observation afin de découvrir le fonctionnement des entreprises et développer une première expérience concrète dans le domaine des systèmes embarqués.&lt;/p&gt;&#xA;&lt;p&gt;## Formation académique&lt;/p&gt;&#xA;&lt;p&gt;**1ère année au cycle d&amp;rsquo;ingénieur — INPT** *(2025 - 2028)*&lt;/p&gt;&#xA;&lt;p&gt;Systèmes Embarqués et Services Numériques (SESNUM)&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
