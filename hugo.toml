@@ -11,7 +11,7 @@ publishDir = "docs"
   linkedin = "hala-lahmamsi-b78a782a8"
   email = "Lahmamsihala28@gmail.com"
   location = "Rabat, Maroc"
-  avatar = "/img/photo.jpg"
+  avatar = "img/photo.jpg"
 
 [permalinks]
   posts = "/posts/:slug"
